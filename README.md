@@ -12,7 +12,6 @@ A GPU-ready AI bot that can:
 - FAISS vector search for multi-PDF lookup
 - Streamlit frontend
 - Embedding caching and metadata saving
-- Voice input via SpeechRecognition
 
 ## 📦 Local Setup
 

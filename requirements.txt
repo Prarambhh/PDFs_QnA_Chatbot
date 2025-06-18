@@ -1,0 +1,10 @@
+torch
+transformers
+sentence-transformers
+pdfplumber
+faiss-cpu
+langchain
+streamlit
+speechrecognition
+pyaudio
+numpy
